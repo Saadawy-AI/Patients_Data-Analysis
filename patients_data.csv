@@ -1,0 +1,13 @@
+PatientID,Name,Age,Gender,Disease,AdmissionDate,DischargeDate,Outcome,Treatment,FollowUpDate
+1,Ahmed,45,Male,Diabetes,2023-01-01,2023-01-10,Recovered,Insulin,2023-02-10
+2,Salma,60,Female,Hypertension,2023-02-15,2023-02-25,Recovered,Beta Blockers,2023-03-30
+3,Youssef,30,Male,COVID-19,2023-03-10,2023-03-20,Deceased,Oxygen Therapy,2023-04-20
+4,Mona,25,Female,Flu,2023-04-01,2023-04-05,Recovered,Rest & Fluids,2023-04-25
+5,Tamer,55,Male,Heart Disease,2023-05-01,2023-05-12,Recovered,Statins,2023-06-15
+6,Nour,35,Female,Asthma,2023-06-01,2023-06-05,Recovered,Inhaler,2023-07-01
+7,Ali,50,Male,Diabetes,2023-06-10,2023-06-20,Recovered,Insulin,2023-07-25
+8,Fatma,28,Female,Anemia,2023-06-15,2023-06-22,Recovered,Iron Supplements,2023-07-30
+9,Omar,42,Male,COVID-19,2023-07-01,2023-07-11,Deceased,Oxygen Therapy,2023-08-10
+10,Hana,33,Female,Migraine,2023-07-05,2023-07-08,Recovered,Painkillers,2023-08-01
+11,Khaled,65,Male,Hypertension,2023-07-10,2023-07-20,Recovered,Beta Blockers,2023-08-05
+12,Rana,22,Female,Flu,2023-07-12,2023-07-16,Recovered,Rest & Fluids,2023-08-10
